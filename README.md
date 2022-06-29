@@ -1,10 +1,10 @@
 # First_Flutter_Build
 
-This is my first flutter build. 
+This is my first ever flutter build. 
 
 
 
-You can access apk in apk folder.
+You can access apk in release folder.
 
 
 
