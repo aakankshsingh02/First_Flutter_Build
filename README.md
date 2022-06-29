@@ -4,7 +4,7 @@ This is my first ever flutter build.
 
 
 
-You can access apk in release folder.
+You can access apk in release folder: https://github.com/aakankshsingh02/First_Flutter_Build/tree/main/release.
 
 
 
